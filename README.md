@@ -12,4 +12,8 @@ eg. If you were updating the Spanish pack for e107 v2.1.2, in e107_languages/Spa
 
 ## Publishing Releases
 
-After e107 has officially released a new version, and your language files are up-to-date, you may publish your pack via the "Releases" area on Github. Simply enter the e107 version. eg. "v2.1.5" and click "Publish". Zip files will be automatically created. 
+After e107 has officially released a new version, and your language files are up-to-date, you may release/publish your pack via the ***Releases*** area on Github. 
+
+Simply enter the e107 version where it says ***Tag***. eg. ***v2.1.5*** and click ***Publish***. 
+
+Zip files will be automatically created. 
