@@ -1,5 +1,3 @@
-# Translator-Information
-
 
 ## Language.xml
 
