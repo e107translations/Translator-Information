@@ -10,7 +10,7 @@ eg. If you were updating the Spanish pack for e107 v2.1.2, in e107_languages/Spa
 `<e107Language name="Spanish" compatibility="2.1.2" date="2016-10-28" >`
 
 
-## Publishing Releases
+## Publishing Official Language Packs
 
 After e107 has officially released a new version, and your language files are up-to-date, you may release/publish your pack via the ***Releases*** area on Github. 
 
@@ -25,3 +25,9 @@ After e107 has officially released a new version, and your language files are up
 7. Click ***Publish release***
 
 Zip files will be automatically created. 
+
+## Publishing a Pre-Release Language Pack (optional) 
+
+If you wish to publish a language-pack for a 'yet to be released' version of e107. eg. ***2.1.6 (git)*** or any other version containing ***(git)*** please follow the steps above but check the box ***pre-release*** prior to step 7. 
+
+
