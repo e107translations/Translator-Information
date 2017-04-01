@@ -16,7 +16,7 @@ After e107 has officially released a new version, and your language files are up
 
 ### Steps:
 
-1. Make sure your repo is up-to-date and the .xml file contains the correct version and date. 
+1. Make sure your repo is up-to-date and the .xml file contains the ***correct version*** and date. 
 2. Go to the "releases' area. eg. https://github.com/e107translations/YOUR-LANGUAGE/releases
 3. Click ***Create a new release***
 4. Enter for `Tag version` the current version. eg. ***v2.1.5*** (make sure you include the ***v*** )
