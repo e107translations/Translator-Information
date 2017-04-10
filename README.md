@@ -49,3 +49,8 @@ If you wish to publish a language-pack for a 'yet to be released' version of e10
 4. Push the changes to Github using your git client. 
 
 
+## FAQS
+
+Q. I have a v1.x language pack I would like to upgrade. What do I do?
+
+A. Unzip the v1.x language pack into v2.x and then follow the procedue above: ***Translating the Files***
