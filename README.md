@@ -18,7 +18,7 @@ After e107 has officially released a new version, and your language files are up
 2. Go to the "releases' area. eg. https://github.com/e107translations/YOUR-LANGUAGE/releases
 3. Click ***Create a new release***
 4. Enter for `Tag version` the current version. eg. ***v2.1.5*** (make sure you include the ***v*** )
-5. Enter for `Release title` the name of your pack. eg. ***e107 German Language Pack***
+5. Enter for `Release title` the name of your pack. eg. ***e107 German Language Pack v2.1.5***
 6. Enter a description (optional)
 7. Click ***Publish release***
 
