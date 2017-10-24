@@ -26,7 +26,10 @@ Zip files will be automatically created.
 
 ## Publishing a Pre-Release Language Pack (optional) 
 
-If you wish to publish a language-pack for a 'yet to be released' version of e107. eg. ***2.1.6 (git)*** or any other version containing ***(git)*** please follow the steps above but check the box ***pre-release*** prior to step 7. 
+If you wish to publish a language-pack for a 'yet to be released' version of e107, eg. ***2.1.6 (git)*** or any other version containing ***(git)*** please follow these steps steps above while modifying them as follows:
+
+1) Append ***-alpha*** or ***-beta*** to the `Tag version` at Step 4. eg. v2.1.5-alpha
+2) Check the box ***pre-release*** after Step 6. 
 
 
 
